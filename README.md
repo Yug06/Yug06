@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=Yug06&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 
 #### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yug06&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yug06&layout=compact)
