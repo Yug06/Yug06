@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yug Parmar</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🔭 I’m currently working on **Hospital Management System**
+- 🔭 I’m currently working on **Private Project**
 
 - 🌱 I’m currently learning **Node**
 
